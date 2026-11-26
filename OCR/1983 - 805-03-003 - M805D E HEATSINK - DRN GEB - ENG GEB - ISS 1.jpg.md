@@ -34,7 +34,7 @@ Wiki page: [M805](../../../../PAGES/M805.md)
 - **Words (OCR):** 49 in 42 lines: I.910 · 2 HOlEs '31DIA · 1.608 · 908 + · HOLES 413 · DIA · 2.20 · 2.500 · 2-0o0 · 1.500 · I-ooo · 500
 - **Title block:** (278, 14)–(431, 83) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN: GEB · ENG.GER%/z · M8osplE · CKD: · AEATSiNK · APP · SCALE I: · 805-02-003 · ISSUE · Xy · 015 · 005
 
-Every curve, box, word and wire group: [1983 - 805-03-003 - M805D E HEATSINK - DRN GEB - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1983%20-%20805-03-003%20-%20M805D%20E%20HEATSINK%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20(traced).json) (the CAD file: `1983 - 805-03-003 - M805D E HEATSINK - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - 805-03-003 - M805D E HEATSINK - DRN GEB - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1983%20-%20805-03-003%20-%20M805D%20E%20HEATSINK%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1983 - 805-03-003 - M805D E HEATSINK - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -34,7 +34,7 @@ Wiki page: [M805](../../../../PAGES/M805.md)
 - **Words (OCR):** 46 in 37 lines: HOLE 5 · 29 DIA · 2.15 · 2.40 · 25 · 62 · 4.67 · 8-67 · 3-20 · CHANGED MATERIAL PD · OCT · AUG aA
 - **Title block:** (278, 10)–(431, 78) mm: AUG aA · DIM WAS 9*30 · GEB · 33 · (IsSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · M8osd/E · ENG GEB7/ez · Fish · PAPER · CKD_ · COvER · APP · SCALE I : · ISSUE · XX = · 01s · 805-0
 
-Every curve, box, word and wire group: [1987 - 805-03-002 - M805D E FISH PAPER COVER - DRN GEB - ENG GEB - ISS 3 (traced).json](../MECHANICAL/1987%20-%20805-03-002%20-%20M805D%20E%20FISH%20PAPER%20COVER%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%203%20(traced).json) (the CAD file: `1987 - 805-03-002 - M805D E FISH PAPER COVER - DRN GEB - ENG GEB - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 805-03-002 - M805D E FISH PAPER COVER - DRN GEB - ENG GEB - ISS 3 (traced).json](../MECHANICAL/1987%20-%20805-03-002%20-%20M805D%20E%20FISH%20PAPER%20COVER%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1987 - 805-03-002 - M805D E FISH PAPER COVER - DRN GEB - ENG GEB - ISS 3 (traced).dxf`).
 
 ## Full text
 
