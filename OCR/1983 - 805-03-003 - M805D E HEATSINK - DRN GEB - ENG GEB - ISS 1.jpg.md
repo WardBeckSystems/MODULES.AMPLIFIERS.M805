@@ -1,5 +1,5 @@
 # 1983 - 805-03-003 - M805D E HEATSINK - DRN GEB - ENG GEB - ISS 1.jpg
-Wiki page: [M805](../../../../PAGES/M805.md)
+Wiki page: [M805](../)
 
 
 - **Year:** 1983 (title block date)

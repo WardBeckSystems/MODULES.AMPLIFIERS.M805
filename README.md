@@ -1,6 +1,6 @@
 # M805 · Amplifiers
 
-Ward-Beck Systems M805, 1983|16. Wiki page: [M805 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M805.html)
+Ward-Beck Systems M805, 1983|16. Wiki page: [M805 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M805/)
 
 | Folder | What is in it | Files |
 |---|---|---|

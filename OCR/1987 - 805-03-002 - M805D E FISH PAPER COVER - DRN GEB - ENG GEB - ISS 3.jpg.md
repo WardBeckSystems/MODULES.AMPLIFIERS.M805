@@ -1,5 +1,5 @@
 # 1987 - 805-03-002 - M805D E FISH PAPER COVER - DRN GEB - ENG GEB - ISS 3.jpg
-Wiki page: [M805](../../../../PAGES/M805.md)
+Wiki page: [M805](../)
 
 
 - **Year:** 1987 (title block date)
